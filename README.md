@@ -53,7 +53,7 @@
 | 🏥 **Physiotherapy Management System** | Admin dashboard for clinic management — doctors, appointments, and patients with AdminLTE UI. | — | [View Repo](https://github.com/hady-asaker/EhgzEstshara/) |
 | ⚙️ **CRUD React Project** | Create, Read, Update, Delete operations with intuitive UI and JS logic. | — | [View Repo](https://github.com/AHMED-SAYED-MANSOUR) |
 
-> 💡 You can later add **[Live Demo](https://yourproject.vercel.app)** or **[🎥 Watch Video](https://youtu.be/...)** links once you deploy them.
+<!-- > 💡 You can later add **[Live Demo](https://yourproject.vercel.app)** or **[🎥 Watch Video](https://youtu.be/...)** links once you deploy them. -->
 
 ---
 
