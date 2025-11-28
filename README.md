@@ -5,7 +5,7 @@
   <a href="mailto:ahmed.sa.mns@gmail.com"><img src="https://img.shields.io/badge/Email-Me-blue?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/ahmed-sayed-mansour-976bb0249/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Ahmed_Sayed-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://github.com/AHMED-SAYED-MANSOUR" target="_blank"><img src="https://img.shields.io/badge/GitHub-AHMED--SAYED--MANSOUR-181717?style=for-the-badge&logo=github" /></a>
-  <a href="/Ahmed_Sayed_Mansour_CV.pdf"><img src="https://img.shields.io/badge/View_CV-ff69b4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
+  <a href="./Ahmed_Sayed_Mansour_CV.pdf"><img src="https://img.shields.io/badge/View_CV-ff69b4?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" /></a>
 </p>
 
 ---
